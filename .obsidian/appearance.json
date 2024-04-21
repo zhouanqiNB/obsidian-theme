@@ -1,0 +1,14 @@
+{
+  "accentColor": "#8464ce",
+  "theme": "moonstone",
+  "translucency": true,
+  "nativeMenus": false,
+  "textFontFamily": "未来荧黑",
+  "interfaceFontFamily": "Source Han Sans CN",
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ],
+  "cssTheme": "origin",
+  "baseFontSize": 18,
+  "showViewHeader": true
+}

@@ -1,0 +1,83 @@
+{
+  "palette": [
+    {
+      "id": "Lj2eabvdiwnsoPmbrQU_G",
+      "name": "1",
+      "value": "#dc7474"
+    },
+    {
+      "id": "PQlg66H8lPvLHOXdpqGRY",
+      "name": "2",
+      "value": "#76d081"
+    },
+    {
+      "id": "GZSPDq8cGO7eTjSNNiaRd",
+      "name": "3",
+      "value": "#d3dc56"
+    },
+    {
+      "id": "2zGx5rPr_T9cbZpdYY0qm",
+      "name": "4",
+      "value": "#6eaddd"
+    },
+    {
+      "id": "S7QXysvCMuuS_Yx4BL3hY",
+      "name": "5",
+      "value": "#c786ea"
+    },
+    {
+      "id": "yS5zNDZsiRDTCiH2d_N_s",
+      "name": "6",
+      "value": "#9093ea"
+    },
+    {
+      "id": "WmAQ0UPsTsfl6lHjqjV8f",
+      "name": "7",
+      "value": "#74dcba"
+    },
+    {
+      "id": "d059GEJQK0a3WerkU7-LX",
+      "name": "8",
+      "value": "#f5c684"
+    },
+    {
+      "id": "xgAjcq8h_H3rfm47d-6NZ",
+      "name": "9",
+      "value": "#ffe66b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "归档/毕设",
+      "color": "Lj2eabvdiwnsoPmbrQU_G"
+    },
+    {
+      "path": "wars2.0",
+      "color": "yS5zNDZsiRDTCiH2d_N_s"
+    },
+    {
+      "path": "wars2.0/项目信息.md",
+      "color": "Lj2eabvdiwnsoPmbrQU_G"
+    },
+    {
+      "path": "up主/项目/done",
+      "color": "2zGx5rPr_T9cbZpdYY0qm"
+    },
+    {
+      "path": "up主/时间线.md",
+      "color": "Lj2eabvdiwnsoPmbrQU_G"
+    },
+    {
+      "path": "雅思/雅思计划.md",
+      "color": "yS5zNDZsiRDTCiH2d_N_s"
+    },
+    {
+      "path": "雅思",
+      "color": "Lj2eabvdiwnsoPmbrQU_G"
+    },
+    {
+      "path": "wars2.0/log.md",
+      "color": "2zGx5rPr_T9cbZpdYY0qm"
+    }
+  ]
+}

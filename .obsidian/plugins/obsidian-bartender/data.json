@@ -1,0 +1,97 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "run",
+      "life",
+      "wars2.0",
+      "seekjob",
+      "projects",
+      "归档",
+      "up主",
+      "pictures",
+      "杂note",
+      "leetcode2024",
+      "兼职",
+      "别对我动心",
+      "年度分享",
+      "计算机课程分享.md",
+      "雅思",
+      "chemistry"
+    ],
+    "run": [
+      "run/cards",
+      "run/conditions.md",
+      "run/存款.md",
+      "run/雅思",
+      "run/择校.md",
+      "run/申请资料.md",
+      "run/芬兰语.md",
+      "run/留学信息收集.md",
+      "run/oc"
+    ],
+    "up主": [
+      "up主/时间线.md",
+      "up主/按照时间",
+      "up主/项目",
+      "up主/杂",
+      "up主/pic",
+      "up主/up主_视频项目.md"
+    ],
+    "life": [
+      "life/life.md",
+      "life/杂note",
+      "life/深圳户口",
+      "life/个人资产.md",
+      "life/愿望清单.md",
+      "life/微博备份管理.md",
+      "life/账号们.canvas"
+    ],
+    "projects": [
+      "projects/projects.md",
+      "projects/晋江extension",
+      "projects/编程语言制霸",
+      "projects/云服务器",
+      "projects/wars2.0"
+    ],
+    "wars2.0/设计文档": [
+      "wars2.0/设计文档/需求文档.md",
+      "wars2.0/设计文档/UI设计.md",
+      "wars2.0/设计文档/设计文档.md",
+      "wars2.0/设计文档/表的设计.md",
+      "wars2.0/设计文档/游戏文档.md"
+    ],
+    "wars2.0": [
+      "wars2.0/cards",
+      "wars2.0/设计文档",
+      "wars2.0/项目信息.md",
+      "wars2.0/开发日志.md",
+      "wars2.0/进度管理.md"
+    ],
+    "up主/项目": [
+      "up主/项目/护心",
+      "up主/项目/狗十三.md",
+      "up主/项目/疼痛难免剪辑.md",
+      "up主/项目/果宝特攻",
+      "up主/项目/玛丽学院",
+      "up主/项目/央视版白蛇传",
+      "up主/项目/done"
+    ],
+    "杂note": [
+      "杂note/知识",
+      "杂note/带时间戳的本地视频笔记工作流.md",
+      "杂note/纷玩岛抢票指南.md",
+      "杂note/个人新电脑环境指南.md",
+      "杂note/如何爬取豆瓣个人的标记数据.md",
+      "杂note/手机上安装git指南.md",
+      "杂note/微博备份管理.md",
+      "杂note/这个文件夹在手机哪里.md",
+      "杂note/wifi密码.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

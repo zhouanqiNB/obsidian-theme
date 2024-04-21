@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:工作/",
+      "color": {
+        "a": 1,
+        "rgb": 15632333
+      }
+    },
+    {
+      "query": "path:up主/2023  ",
+      "color": {
+        "a": 1,
+        "rgb": 11015445
+      }
+    },
+    {
+      "query": "path:up主  ",
+      "color": {
+        "a": 1,
+        "rgb": 14654113
+      }
+    },
+    {
+      "query": "path:归档/",
+      "color": {
+        "a": 1,
+        "rgb": 12105912
+      }
+    },
+    {
+      "query": "path:run  ",
+      "color": {
+        "a": 1,
+        "rgb": 4289475
+      }
+    },
+    {
+      "query": "path:wars2.0/设计文档  ",
+      "color": {
+        "a": 1,
+        "rgb": 14612936
+      }
+    },
+    {
+      "query": "path:wars2.0  ",
+      "color": {
+        "a": 1,
+        "rgb": 11920972
+      }
+    },
+    {
+      "query": "path:life  ",
+      "color": {
+        "a": 1,
+        "rgb": 10593266
+      }
+    },
+    {
+      "query": "path:杂note  ",
+      "color": {
+        "a": 1,
+        "rgb": 13600994
+      }
+    },
+    {
+      "query": "path:projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 15768007
+      }
+    },
+    {
+      "query": "path:leetcode2024  ",
+      "color": {
+        "a": 1,
+        "rgb": 3647784
+      }
+    },
+    {
+      "query": "path:雅思  ",
+      "color": {
+        "a": 1,
+        "rgb": 3856804
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.39777425130208,
+  "lineSizeMultiplier": 1.64022216796875,
+  "collapse-forces": false,
+  "centerStrength": 0.738362630208333,
+  "repelStrength": 20,
+  "linkStrength": 0.999918619791667,
+  "linkDistance": 68,
+  "scale": 0.16776339180963706,
+  "close": true
+}

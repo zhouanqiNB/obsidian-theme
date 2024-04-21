@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🚮",
+      "RiEnglishInput",
+      "SiLeetcode",
+      "🇫🇮",
+      "👩‍💼"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "up主": "SiBilibili",
+  "up主/项目/done": "🆗",
+  "projects": "RiToolsFill",
+  "pictures": "FasMountain",
+  "归档/autumn": "SiAircanada",
+  "归档/csharp": "SiCsharp",
+  "归档": "IbFolder",
+  "life": "🌈",
+  "run": "🇫🇮",
+  "seekjob": "👩‍💼",
+  "归档/毕设": "FasBook",
+  "归档/leetcode2022": "SiLeetcode",
+  "wars2.0": "RiGameFill",
+  "归档/云服务器": "SiCsharp",
+  "leetcode2024": "SiLeetcode",
+  "雅思": "RiEnglishInput",
+  "杂note": "🚮"
+}
